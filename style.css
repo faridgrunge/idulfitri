@@ -79,7 +79,7 @@ img {
   border-bottom-color: #05338e;
 
   /*warna di header begronnya*/
-  background-color: #1cc5dc;
+  background-color: #8fd9a8;
   height: 45px;
   margin: 0px;
   padding: 0px;
@@ -100,13 +100,13 @@ img {
   width: 100%;
 
   /*	warna dibawah*/
-  background-color: #1cc5dc;
+  background-color: #8fd9a8;
   height: 70px;
   margin: 0px;
   padding: 0px;
   border-top-width: 5px;
   border-top-style: solid;
-  border-top-color: #1cc5dc;
+  border-top-color: #8fd9a8;
   text-align: center;
 }
 #footerbox {
@@ -140,12 +140,12 @@ img {
   border-bottom-width: 3px;
   border-bottom-style: solid;
   border-bottom-color: #400000;
-  border-left-color: #1cc5dc;
+  border-left-color: #8fd9a8;
   height: 32px;
   border-left-width: 5px;
   border-left-style: solid;
   /*warna hijau di kotak menu*/
-  background-color: #1cc5dc;
+  background-color: #8fd9a8;
   /*gambar di ujung sebelah kiri di kotak menu*/
   background-image: none;
   margin-top: 0px;
